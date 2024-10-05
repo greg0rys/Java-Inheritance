@@ -1,7 +1,6 @@
 # The Evolution of Code: Exploring Java Inheritance for Better Design.
 
-[Read on LinkedIn](https://www.linkedin.com/pulse/evolution-code-exploring-java-inheritance-better-design-shenefelt-lwuac/?trackingId=rzXW1vqOSSyaebJeyf%2BNTg%3D%3D)
-| [Email Me](mailto:rileyxq@rxquinn.net)
+📧 [Email Me](mailto:rileyxq@rxquinn.net)
 ---
 ![Banner](./java-inheritance-articles/inherit-banner-one.png)
 Understanding inheritance can be one of the most challenging concepts for new programmers. Many find it difficult to
